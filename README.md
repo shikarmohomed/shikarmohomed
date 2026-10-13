@@ -27,83 +27,82 @@
 
 </div>
 
-## 🧑‍💻 `whoami`
 
-```javascript
-const shikar = {
-    education: "Computer Science Undergraduate",
-    university: "University of Jaffna",
-    role: "Developer in Progress",
-    interests: [
-        "Full-Stack Development",
-        "Data Structures & Algorithms",
-        "Artificial Intelligence",
-        "Cloud Computing"
-    ],
-    currentMission: "Turning ideas into real-world projects",
-    mindset: "Learn. Build. Break. Fix. Repeat."
-};
+## 💻 `~/about-me`
 
-console.log("Welcome to my digital playground! 🚀");
+```bash
+┌──(shikar㉿developer)-[~]
+└─$ whoami
+
+Computer Science Undergraduate 🎓
+Full-Stack Developer in Progress 💻
+Problem Solver | Tech Explorer | Lifelong Learner
+
+┌──(shikar㉿developer)-[~]
+└─$ cat mission.txt
+
+Learn new technologies.
+Build real-world projects.
+Solve problems with code.
+Turn imagination into reality. 🚀
 ```
 
-## ⚙️ Tech Arsenal
+---
+
+## ⚡ `TECH STACK`
 
 <div align="center">
 
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=java,html,css,js,python" />
-
-### 🛠️ Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,mysql,nodejs" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js,python,nodejs,mongodb,mysql,git,github,vscode&theme=dark" />
 
 </div>
 
-## 🚀 Featured Projects
+---
 
-| Project           | Description                                    | Tech                                    |
-| ----------------- | ---------------------------------------------- | --------------------------------------- |
-| 🎓 Origin Academy | A learning management system for students      | HTML, CSS, JavaScript, Node.js, MongoDB |
-| 🌐 Web Projects   | Websites and experiments built while learning  | HTML, CSS, JavaScript                   |
-| 🧠 DSA Practice   | Data structures and algorithms implementations | Java                                    |
-
-*Explore my repositories for the latest projects and experiments!*
-
-## 📊 GitHub Command Center
+## 📊 `SYSTEM STATISTICS`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shikarmohomed&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shikarmohomed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=00D9FF&text_color=FFFFFF" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikarmohomed&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikarmohomed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=FFFFFF" />
 
-<img src="https://streak-stats.demolab.com?user=shikarmohomed&theme=tokyonight&hide_border=true" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=shikarmohomed&theme=tokyonight&hide_border=true&background=0D1117&ring=A970FF&fire=00D9FF&currStreakLabel=A970FF" />
 
 </div>
 
-## 🧩 Developer Philosophy
+---
 
-> "First, solve the problem. Then, write the code."
-
-* 🔭 Building projects that turn knowledge into practical skills.
-* 🌱 Learning full-stack development, databases, and cloud technologies.
-* 🧠 Improving my problem-solving skills through DSA.
-* 🤝 Open to collaborating on interesting projects.
-* 🎯 Goal: Become a skilled software developer who builds useful things.
-
-## 🌐 Connect With Me
+## 🚀 `PROJECTS.exe`
 
 <div align="center">
 
 <a href="https://github.com/shikarmohomed">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore-My_Repositories-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</div>
+
+| Project            | Mission                                   |
+| ------------------ | ----------------------------------------- |
+| 🎓 Origin Academy  | Building a learning management system     |
+| 💻 DSA in Java     | Practising data structures and algorithms |
+| 🌐 Web Development | Learning by building web projects         |
+
+---
+
+## 🧠 `DEVELOPER_MINDSET`
+
+<div align="center">
+
+![](https://img.shields.io/badge/THINK-6C3BFF?style=for-the-badge)
+![](https://img.shields.io/badge/CODE-00D9FF?style=for-the-badge)
+![](https://img.shields.io/badge/DEBUG-8A2BE2?style=for-the-badge)
+![](https://img.shields.io/badge/REPEAT-6C3BFF?style=for-the-badge)
+
+### *"Every expert was once a beginner who refused to give up."*
 
 </div>
 
@@ -111,10 +110,11 @@ console.log("Welcome to my digital playground! 🚀");
 
 <div align="center">
 
-### 💜 Thanks for visiting my corner of the internet!
+### 🟣 `SESSION STATUS: LEARNING MODE ACTIVE`
 
-`while(alive) { learn(); build(); repeat(); }`
+`while (alive) { learn(); build(); improve(); }`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C3BFF,100:00D9FF&height=100&section=footer" width="100%"/>
 
 </div>
+
