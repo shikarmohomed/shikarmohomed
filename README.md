@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C3BFF,100:00D9FF&height=220&section=header&text=MOHOMEDSHIKAR&fontSize=75&fontColor=FFFFFF&fontAlignY=38&desc=BUILD%20%E2%80%A2%20DEBUG%20%E2%80%A2%20REPEAT&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C3BFF,100:00D9FF&height=220&section=header&text=MOHOMED+SHIKAR&fontSize=75&fontColor=FFFFFF&fontAlignY=38&desc=BUILD%20%E2%80%A2%20DEBUG%20%E2%80%A2%20REPEAT&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Full-Stack+Developer+in+Progress;Turning+Ideas+Into+Reality;Welcome+To+My+Digital+World+%F0%9F%9A%80" alt="Typing SVG"/>
 
