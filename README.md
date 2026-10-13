@@ -27,38 +27,97 @@
 
 </div>
 
-## 🌌 `whoami.exe` — Identity Found
+
+ <div align="center">
+
+# 🔐 CLASSIFIED // DEVELOPER DATABASE
+
+`SYSTEM ID: SKR-001`   `CLEARANCE: LEVEL 07`
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF9C?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/IDENTITY-VERIFIED-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MISSION-IN_PROGRESS-00D9FF?style=for-the-badge" />
+
+</div>
+
+---
+
+### 🕵️ SUBJECT PROFILE
+
+```yaml
+[ CLASSIFIED PERSONNEL FILE ]
+
+Codename     : SHIKAR
+Designation  : Software Developer in Progress
+Division     : Computer Science
+Institution  : University of Jaffna
+Base         : Sri Lanka 🇱🇰
+
+Primary Skills:
+  - Java & Data Structures
+  - Web Development
+  - Database Systems
+  - Problem Solving
+
+Current Status: LEARNING_MODE_ACTIVE
+Threat Level  : BUGS DETECTED ⚠️
+Response      : DEBUGGING...
+```
+
+### 🎯 ACTIVE MISSION OBJECTIVES
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                 SYSTEM IDENTIFICATION                ║
-╚══════════════════════════════════════════════════════╝
+╭──────────────────────────────────────────────╮
+│  MISSION 001 // THE FULL-STACK PROTOCOL      │
+│  ├─ Build powerful web applications          │
+│  └─ Turn ideas into working products         │
+│                                              │
+│  MISSION 002 // THE ALGORITHM PROJECT        │
+│  ├─ Master Data Structures & Algorithms      │
+│  └─ Train the problem-solving engine          │
+│                                              │
+│  MISSION 003 // BEYOND THE CODE               │
+│  ├─ Explore AI & Cloud Computing              │
+│  └─ Discover new technological frontiers     │
+╰──────────────────────────────────────────────╯
+```
 
-  USER       : SHIKAR
-  ROLE       : Computer Science Undergraduate 🎓
-  LOCATION   : University of Jaffna, Sri Lanka 🇱🇰
-  STATUS     : [ ONLINE ] 🟢
-  CLASS      : Developer in Progress
+### 🖥️ SYSTEM DIAGNOSTICS
 
-  ┌─ CURRENT OBJECTIVES ─────────────────────────────┐
-  │                                                  │
-  │  [01] Mastering the art of Full-Stack Dev        │
-  │  [02] Solving problems with Java & DSA           │
-  │  [03] Exploring AI, Cloud & new technologies     │
-  │  [04] Turning creative ideas into real projects  │
-  │                                                  │
-  └──────────────────────────────────────────────────┘
+| Parameter     | Current Reading                  |
+| ------------- | -------------------------------- |
+| 🧠 Curiosity  | `MAXIMUM`                        |
+| ⚡ Motivation  | `VARIABLE — DISCIPLINE REQUIRED` |
+| 🛠️ Debugging | `ALWAYS IN PROGRESS`             |
+| 📚 Learning   | `CONTINUOUS`                     |
+| 🚀 Ambition   | `UNDEFINED LIMIT`                |
 
-  ┌─ DEVELOPER MINDSET ──────────────────────────────┐
-  │                                                  │
-  │  Curiosity > Comfort                             │
-  │  Consistency > Motivation                        │
-  │  Progress > Perfection                           │
-  │                                                  │
-  └──────────────────────────────────────────────────┘
+### 🔓 ROOT ACCESS // DEVELOPER PHILOSOPHY
 
-  $ sudo unlock --potential
-  > Access granted. The journey continues... 🚀
+```bash
+$ initialize --future
+
+> Loading curiosity............. DONE
+> Installing knowledge.......... IN PROGRESS
+> Compiling experience.......... IN PROGRESS
+> Resolving errors.............. ALWAYS
+> Building the future........... RUNNING
+
+[SYSTEM MESSAGE]
+No shortcuts. No final version.
+Just a better build than yesterday.
+```
+
+<div align="center">
+
+### 🟣 `END OF FILE // THE MISSION CONTINUES`
+
+**ACCESS GRANTED. WELCOME TO MY WORLD.**
+
+`[ CODE ]`   ` [ CREATE ]`   `[ REPEAT ]`
+
+</div>
+
 
 ```
 
