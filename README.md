@@ -29,6 +29,7 @@
 
 🧑‍💻 whoami
 const shikar = {
+
     education: "Computer Science Undergraduate",
     university: "University of Jaffna",
     role: "Developer in Progress",
@@ -37,7 +38,7 @@ const shikar = {
         "Data Structures & Algorithms",
         "Artificial Intelligence",
         "Cloud Computing"
-    ],
+    ]
 
 
 ┌──(shikar㉿developer)-[~]
