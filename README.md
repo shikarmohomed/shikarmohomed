@@ -110,6 +110,15 @@ Turn imagination into reality. 🚀
 
 <div align="center">
 
+## 🐍 CONTRIBUTION MATRIX
+
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/shikarmohomed/shikarmohomed/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+
 ### 🟣 `SESSION STATUS: LEARNING MODE ACTIVE`
 
 `while (alive) { learn(); build(); improve(); }`
