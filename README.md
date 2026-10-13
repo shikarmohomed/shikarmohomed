@@ -27,16 +27,18 @@
 
 </div>
 
+🧑‍💻 whoami
+const shikar = {
+    education: "Computer Science Undergraduate",
+    university: "University of Jaffna",
+    role: "Developer in Progress",
+    interests: [
+        "Full-Stack Development",
+        "Data Structures & Algorithms",
+        "Artificial Intelligence",
+        "Cloud Computing"
+    ],
 
-## 💻 `~/about-me`
-
-```bash
-┌──(shikar㉿developer)-[~]
-└─$ whoami
-
-Computer Science Undergraduate 🎓
-Full-Stack Developer in Progress 💻
-Problem Solver | Tech Explorer | Lifelong Learner
 
 ┌──(shikar㉿developer)-[~]
 └─$ cat mission.txt
@@ -48,6 +50,8 @@ Turn imagination into reality. 🚀
 ```
 
 ---
+
+console.log("Welcome to my digital playground! 🚀");
 
 ⚙️ Tech Arsenal
 
