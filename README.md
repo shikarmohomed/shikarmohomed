@@ -27,27 +27,49 @@
 
 </div>
 
-🧑‍💻 whoami
-const shikar = {
+## 🌌 `whoami.exe` — Identity Found
 
-    education: "Computer Science Undergraduate",
-    university: "University of Jaffna",
-    role: "Developer in Progress",
-    interests: [
-        "Full-Stack Development",
-        "Data Structures & Algorithms",
-        "Artificial Intelligence",
-        "Cloud Computing"
-    ]
+```text
+╔══════════════════════════════════════════════════════╗
+║                 SYSTEM IDENTIFICATION                ║
+╚══════════════════════════════════════════════════════╝
 
+  USER       : SHIKAR
+  ROLE       : Computer Science Undergraduate 🎓
+  LOCATION   : University of Jaffna, Sri Lanka 🇱🇰
+  STATUS     : [ ONLINE ] 🟢
+  CLASS      : Developer in Progress
 
-┌──(shikar㉿developer)-[~]
-└─$ cat mission.txt
+  ┌─ CURRENT OBJECTIVES ─────────────────────────────┐
+  │                                                  │
+  │  [01] Mastering the art of Full-Stack Dev        │
+  │  [02] Solving problems with Java & DSA           │
+  │  [03] Exploring AI, Cloud & new technologies     │
+  │  [04] Turning creative ideas into real projects  │
+  │                                                  │
+  └──────────────────────────────────────────────────┘
 
-Learn new technologies.
-Build real-world projects.
-Solve problems with code.
-Turn imagination into reality. 🚀
+  ┌─ DEVELOPER MINDSET ──────────────────────────────┐
+  │                                                  │
+  │  Curiosity > Comfort                             │
+  │  Consistency > Motivation                        │
+  │  Progress > Perfection                           │
+  │                                                  │
+  └──────────────────────────────────────────────────┘
+
+  $ sudo unlock --potential
+  > Access granted. The journey continues... 🚀
+
+```
+
+<div align="center">
+
+### 🟣 `NOT BUILT DIFFERENT. BUILT THROUGH LEARNING.`
+
+*Writing my story, one commit at a time.*
+
+</div>
+
 ```
 
 ---
