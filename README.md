@@ -17,7 +17,7 @@
 
 <div align="center">
 
-# ⚡ SHIKAR | Developer in Progress
+# ⚡ SHIKAR NM | Developer in Progress
 
 ### `Building ideas into reality, one line at a time.`
 
