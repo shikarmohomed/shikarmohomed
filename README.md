@@ -49,11 +49,17 @@ Turn imagination into reality. 🚀
 
 ---
 
-## ⚡ `TECH STACK`
+⚙️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,python,nodejs,mongodb,mysql,git,github,vscode&theme=dark" />
+💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,html,css,js,python" />
+
+🛠️ Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,mysql,nodejs" />
 
 </div>
 
